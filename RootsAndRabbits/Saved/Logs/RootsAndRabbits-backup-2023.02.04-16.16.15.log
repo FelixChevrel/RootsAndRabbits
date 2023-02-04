@@ -1,0 +1,1480 @@
+﻿Log file open, 02/04/23 16:10:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6392)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RootsAndRabbits
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\chevr\Desktop\RabbitRoots\RootsAndRabbits\RootsAndRabbits\RootsAndRabbits.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1335] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b0a76f594480a490778496915fffaa58"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.334884
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DF716474455B6718F04A6BAE1073ECF2
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1335] (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.04-15.10.15:615][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.04-15.10.15:615][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.04-15.10.15:615][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.04-15.10.15:615][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.04-15.10.15:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.04-15.10.15:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.04-15.10.15:616][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.04-15.10.15:619][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.04-15.10.15:636][  0]LogD3D12RHI: Aftermath initialized
+[2023.02.04-15.10.15:636][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.02.04-15.10.16:456][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon RX 6600M (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.04-15.10.16:456][  0]LogD3D12RHI: Adapter has 8146MB of dedicated video memory, 0MB of dedicated system memory, and 7858MB of shared system memory, 1 output[s]
+[2023.02.04-15.10.16:519][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.04-15.10.16:519][  0]LogD3D12RHI: Adapter has 495MB of dedicated video memory, 0MB of dedicated system memory, and 7858MB of shared system memory, 0 output[s]
+[2023.02.04-15.10.16:533][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.02.04-15.10.16:533][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7858MB of shared system memory, 0 output[s]
+[2023.02.04-15.10.16:533][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.02.04-15.10.16:533][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.04-15.10.16:533][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.04-15.10.16:533][  0]LogHAL: Display: Platform has ~ 16 GB [16479838208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.04-15.10.16:533][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.04-15.10.16:533][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.04-15.10.16:533][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2023.02.04-15.10.16:534][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.04-15.10.16:534][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.04-15.10.16:534][  0]LogInit: Computer: LAPTOP-BU8CCQP5
+[2023.02.04-15.10.16:534][  0]LogInit: User: chevr
+[2023.02.04-15.10.16:534][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.04-15.10.16:534][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.04-15.10.16:534][  0]LogMemory: Memory total: Physical=15.3GB (16GB approx)
+[2023.02.04-15.10.16:534][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.04-15.10.16:534][  0]LogMemory: Process Physical Memory: 280.77 MB used, 356.31 MB peak
+[2023.02.04-15.10.16:534][  0]LogMemory: Process Virtual Memory: 265.90 MB used, 311.32 MB peak
+[2023.02.04-15.10.16:534][  0]LogMemory: Physical Memory: 8665.22 MB used,  7051.18 MB free, 15716.40 MB total
+[2023.02.04-15.10.16:534][  0]LogMemory: Virtual Memory: 12012.91 MB used,  7799.48 MB free, 19812.40 MB total
+[2023.02.04-15.10.16:534][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.04-15.10.16:542][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.04-15.10.16:560][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.04-15.10.16:564][  0]LogInit: Using OS detected language (en-GB).
+[2023.02.04-15.10.16:564][  0]LogInit: Using OS detected locale (en-GB).
+[2023.02.04-15.10.16:571][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.02.04-15.10.16:719][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem:   - French (France) - (Keyboard).
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem:   - English (Ireland) - (Keyboard).
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.02.04-15.10.16:729][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.02.04-15.10.16:743][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.04-15.10.16:743][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.04-15.10.16:911][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.02.04-15.10.16:911][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.02.04-15.10.16:990][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.02.04-15.10.17:015][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.02.04-15.10.17:016][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.02.04-15.10.17:018][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.02.04-15.10.17:033][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.02.04-15.10.17:033][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.02.04-15.10.17:068][  0]LogD3D12RHI: AMD hit token extension is supported
+[2023.02.04-15.10.17:068][  0]LogD3D12RHI:     GPU DeviceId: 0x73ff (for the marketing name, search the web for "GPU Device Id")
+[2023.02.04-15.10.17:068][  0]LogWindows: Attached monitors:
+[2023.02.04-15.10.17:068][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1368), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.02.04-15.10.17:068][  0]LogWindows: Found 1 attached monitors.
+[2023.02.04-15.10.17:068][  0]LogWindows: EnumDisplayDevices:
+[2023.02.04-15.10.17:068][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.02.04-15.10.17:069][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.02.04-15.10.17:069][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.02.04-15.10.17:070][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.04-15.10.17:070][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.02.04-15.10.17:070][  0]LogWindows:    5. 'AMD Radeon RX 6600M' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.02.04-15.10.17:071][  0]LogWindows:    6. 'AMD Radeon RX 6600M' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.02.04-15.10.17:071][  0]LogWindows:    7. 'AMD Radeon RX 6600M' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.02.04-15.10.17:071][  0]LogWindows:    8. 'AMD Radeon RX 6600M' (P:0 D:0), name: '\\.\DISPLAY9'
+[2023.02.04-15.10.17:072][  0]LogWindows:    9. 'AMD Radeon RX 6600M' (P:0 D:0), name: '\\.\DISPLAY10'
+[2023.02.04-15.10.17:072][  0]LogWindows:    10. 'AMD Radeon RX 6600M' (P:0 D:0), name: '\\.\DISPLAY11'
+[2023.02.04-15.10.17:072][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2023.02.04-15.10.17:072][  0]LogD3D12RHI:     Adapter Name: AMD Radeon RX 6600M
+[2023.02.04-15.10.17:072][  0]LogD3D12RHI:   Driver Version: AMD Software: Adrenalin Edition 21.50.20.01 (internal:30.0.15020.1001, unified:30.0.15020.1001)
+[2023.02.04-15.10.17:072][  0]LogD3D12RHI:      Driver Date: 5-4-2022
+[2023.02.04-15.10.17:072][  0]LogRHI: Texture pool is 4648 MB (70% of 6640 MB)
+[2023.02.04-15.10.17:072][  0]LogD3D12RHI: Async texture creation enabled
+[2023.02.04-15.10.17:072][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.02.04-15.10.17:093][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/RootsAndRabbits.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/TurnkeyReport_0.log" -log="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/TurnkeyLog_0.log" -project="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/RootsAndRabbits.uproject"  -platform=all'
+[2023.02.04-15.10.17:093][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/RootsAndRabbits.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/TurnkeyReport_0.log" -log="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/TurnkeyLog_0.log" -project="C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/RootsAndRabbits.uproject"  -platform=all" ]
+[2023.02.04-15.10.17:122][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.04-15.10.17:134][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.02.04-15.10.17:134][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.04-15.10.17:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.04-15.10.17:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.04-15.10.17:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.04-15.10.17:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.04-15.10.17:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.04-15.10.17:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.04-15.10.17:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.04-15.10.17:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.04-15.10.17:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.04-15.10.17:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.04-15.10.17:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.04-15.10.17:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.04-15.10.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.04-15.10.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.04-15.10.17:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.04-15.10.17:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.04-15.10.17:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.04-15.10.17:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.04-15.10.17:217][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.04-15.10.17:234][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.04-15.10.17:240][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.04-15.10.17:240][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.04-15.10.17:240][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.04-15.10.17:240][  0]LogTargetPlatformManager:   PCM
+[2023.02.04-15.10.17:247][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.04-15.10.17:247][  0]LogTargetPlatformManager:   BINKA
+[2023.02.04-15.10.17:247][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.04-15.10.17:247][  0]LogTargetPlatformManager:   OGG
+[2023.02.04-15.10.17:247][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.04-15.10.17:247][  0]LogTargetPlatformManager:   OPUS
+[2023.02.04-15.10.17:327][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.04-15.10.17:339][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.04-15.10.17:346][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.04-15.10.17:346][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.04-15.10.17:347][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.04-15.10.17:347][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.04-15.10.17:347][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.04-15.10.17:347][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.04-15.10.17:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.04-15.10.17:351][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.04-15.10.17:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.04-15.10.17:351][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.04-15.10.17:378][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.02.04-15.10.17:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.04-15.10.17:378][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.04-15.10.17:390][  0]LogDerivedDataCache: Speed tests for C:/Users/chevr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.04-15.10.17:390][  0]LogDerivedDataCache: Display: Performance to C:/Users/chevr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=503.57MBs, RandomWriteSpeed=103.33MBs. Assigned SpeedClass 'Local'
+[2023.02.04-15.10.17:392][  0]LogDerivedDataCache: Using Local data cache path C:/Users/chevr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.04-15.10.17:392][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.04-15.10.17:392][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.04-15.10.17:401][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.04-15.10.17:401][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.04-15.10.17:401][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Intermediate/Shaders/WorkingDirectory/12776/).
+[2023.02.04-15.10.17:402][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/chevr/AppData/Local/Temp/UnrealShaderWorkingDir/E161AC9048CDD9A9B9DEFEA7E26EB0A2/'.
+[2023.02.04-15.10.17:402][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.04-15.10.17:402][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.02.04-15.10.18:938][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.04-15.10.18:938][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.04-15.10.18:939][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.04-15.10.18:985][  0]LogAssetRegistry: FAssetRegistry took 0.0181 seconds to start up
+[2023.02.04-15.10.18:992][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.04-15.10.19:200][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.04-15.10.19:201][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.04-15.10.19:543][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.04-15.10.19:543][  0]LogDeviceProfileManager: Active device profile: [000009C2CC674B40][000009C2C17B5000 50] WindowsEditor
+[2023.02.04-15.10.19:543][  0]LogDeviceProfileManager: Profiles: [000009C2CC674600][000009C2C17BA000 50] Windows, [000009C2CC674B40][000009C2C17B5000 50] WindowsEditor, [000009C2CC672840][000009C2C17B2800 50] WindowsServer, [000009C2CC670700][000009C2C169A000 50] WindowsClient, [000009C2CC6732C0][000009C2C17B7800 50] IOS, [000009C2CC673D40][000009C2CC680000 50] iPadAir2, [000009C2CC674EC0][000009C2CC687800 50] IPadPro, [000009C2CC675240][000009C2CC685000 50] iPadAir3, [000009C2CC6708C0][000009C2CC68A000 50] iPadAir4, [000009C2CC671880][000009C2CC68C800 50] iPadMini4, [000009C2CC671500][000009C2A8F25000 50] iPadMini5, [000009C2CC675400][000009C2CC640000 50] iPadMini6, [000009C2CC677C40][000009C2CC64A000 50] iPhone6S, [000009C2CC677A80][000009C2CC647800 50] iPhone7, [000009C2CC677700][000009C2CC645000 50] iPodTouch7, [000009C2CC671180][000009C2CC64C800 50] iPhone6SPlus, [000009C2CC6739C0][000009C2CC682800 50] iPhone7Plus, [000009C2CC670E00][000009C2CC6A0000 50] iPhoneSE, [000009C2CC6778C0][000009C2CC6A5000 50] iPhone8, [000009C2CC677380][000009C2CC6A7800 50] iPhone8Plus, [000009C2CC672F40][000009C2CC6AA000 50] iPhoneX, [000009C2CC672BC0][000009C2CC6AC800 50] iPhoneXS, [000009C2CC670540][000009C2CC642800 50] iPhoneXSMax, [000009C2CC6740C0][000009C2CC6D0000 50] iPhoneXR, [000009C2CC673800][000009C2CC6D5000 50] iPhone11, [000009C2CC672680][000009C2CC6D7800 50] iPhone11Pro, [000009C2CC675080][000009C2CC6DA000 50] iPhone11ProMax, [000009C2CC675E80][000009C2CC6DC800 50] iPhoneSE2, [000009C2CC675780][000009C2CC6A2800 50] iPhone12Mini, [000009C2CC6755C0][000009C2CC6E0000 50] iPhone12, [000009C2CC6716C0][000009C2CC6E5000 50] iPhone12Pro, [000009C2CC674980][000009C2CC6E7800 50] iPhone12ProMax, [000009C2CC676E40][000009C2CC6EA000 50] iPhone13Mini, [000009C2CC670000][000009C2CC6EC800 50] iPhone13, [000009C2CC671340][000009C2CC6D2800 50] iPhone13Pro, [000009C2CC672A00][000009C2CC6F0000 50] iPhone13ProMax, [000009C2CC676900][000009C2CC6F5000 50] iPadPro105, [000009C2CC672D80][000009C2CC6F7800 50] iPadPro129, [000009C2CC676AC0][000009C2CC6FA000 50] iPadPro97, [000009C2CC672300][000009C2CC6FC800 50] iPadPro2_129, [000009C2CC671C00][000009C2CC6E2800 50] iPad5, [000009C2CC671DC0][000009C2CC700000 50] iPad6, [000009C2CC670380][000009C2CC705000 50] iPad7, [000009C2CC674280][000009C2CC707800 50] iPad8, [000009C2CC670FC0][000009C2CC70A000 50] iPad9, [000009C2CC675940][000009C2CC70C800 50] iPadPro11, [000009C2CC673B80][000009C2CC6F2800 50] iPadPro2_11, [000009C2CC6763C0][000009C2CC690000 50] iPadPro3_11, [000009C2CC676740][000009C2CC695000 50] iPadPro3_129, [000009C2CC6771C0][000009C2CC697800 50] iPadPro4_129, [000009C2CC673F00][000009C2CC69A000 50] iPadPro5_129, [000009C2CC675CC0][000009C2CC69C800 50] AppleTV, [000009C2CC677540][000009C2CC702800 50] AppleTV4K, [000009C2CC676200][000009C2CC730000 50] TVOS, [000009C2CC67A2C0][000009C2CC737800 50] Mac, [000009C2CC67A640][000009C2CC735000 50] MacEditor, [000009C2CC673480][000009C2CC73A000 50] MacClient, [000009C2CC678C00][000009C2CC73C800 50] MacServer, [000009C2CC67A9C0][000009C2CC750000 50] Linux, [000009C2CC672140][000009C2CC752800 50] LinuxEditor, [000009C2CC679840][000009C2CC757800 50] LinuxArm64Editor, [000009C2CC677FC0][000009C2CC75A000 50] LinuxArm64, [000009C2CC678180][000009C2CC75C800 50] LinuxClient, [000009C2CC670A80][000009C2CC692800 50] LinuxArm64Client, [000009C2CC677000][000009C2CC755000 50] LinuxServer, [000009C2CC678A40][000009C2CC740000 50] LinuxArm64Server, [000009C2CC6786C0][000009C2CC745000 50] Android, [000009C2CC677E00][000009C2CC747800 50] Android_Preview_OpenGL, [000009C2CC671F80][000009C2CC74A000 50] Android_Preview_Vulkan, [000009C2CC673640][000009C2CC74C800 50] Android_Low, [000009C2CC679140][000009C2CC732800 50] Android_Mid, [000009C2CC676040][000009C2CC760000 50] Android_High, [000009C2CC678DC0][000009C2CC765000 50] Android_Default, [000009C2CC679BC0][000009C2CC767800 50] Android_Adreno4xx, [000009C2CC675B00][000009C2CC76A000 50] Android_Adreno5xx_Low, [000009C2CC671A40][000009C2CC76C800 50] Android_Adreno5xx, [000009C2CC676C80][000009C2CC742800 50] Android_Adreno6xx, [000009C2CC679680][000009C2CC770000 50] Android_Adreno6xx_Vulkan, [000009C2CC679D80][000009C2CC775000 50] Android_Adreno7xx, [000009C2CC6724C0][000009C2CC777800 50] Android_Adreno7xx_Vulkan, [000009C2CC6794C0][000009C2CC77A000 50] Android_Mali_T6xx, [000009C2CC678500][000009C2CC77C800 50] Android_Mali_T7xx, [000009C2CC67A480][000009C2CC762800 50] Android_Mali_T8xx, [000009C2CC676580][000009C2CC780000 50] Android_Mali_G71, [000009C2CC67AB80][000009C2CC785000 50] Android_Mali_G72, [000009C2CC67B600][000009C2CC787800 50] Android_Mali_G72_Vulkan, [000009C2CC67B7C0][000009C2CC78A000 50] Android_Mali_G76, [000009C2CC67A800][000009C2CC78C800 50] Android_Mali_G76_Vulkan, [000009C2CC678880][000009C2CC772800 50] Android_Mali_G77, [000009C2CC67BB40][000009C2CC790000 50] Android_Mali_G77_Vulkan, [000009C2CC67B0C0][000009C2CC795000 50] Android_Mali_G78, [000009C2CC678340][000009C2CC797800 50] Android_Mali_G78_Vulkan, [000009C2CC674D00][000009C2CC79A000 50] Android_Mali_G710, [000009C2CC678F80][000009C2CC79C800 50] Android_Mali_G710_Vulkan, [000009C2CC674440][000009C2CC782800 50] Android_Xclipse_920, [000009C2CC67C400][000009C2CC7A0000 50] Android_Xclipse_920_Vulkan, [000009C2CC67AD40][000009C2CC7A5000 50] Android_Vulkan_SM5, [000009C2CC67B980][000009C2CC7A7800 50] Android_PowerVR_G6xxx, [000009C2CC67CE80][000009C2CC7AA000 50] Android_PowerVR_GT7xxx, [000009C2CC67C780][000009C2CC7AC800 50] Android_PowerVR_GE8xxx, [000009C2CC67D040][000009C2CC792800 50] Android_PowerVR_GM9xxx, [000009C2CC67C080][000009C2CC7B0000 50] Android_PowerVR_GM9xxx_Vulkan, [000009C2CC67C240][000009C2CC7B5000 50] Android_TegraK1, [000009C2CC6701C0][000009C2CC7B7800 50] Android_Unknown_Vulkan, [000009C2CC67D200][000009C2CC7BA000 50] Oculus_Quest, [000009C2CC67DC80][000009C2CC7BC800 50] Oculus_Quest2, [000009C2CC67CB00][000009C2CC7A2800 50] HoloLens, 
+[2023.02.04-15.10.19:543][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.04-15.10.19:546][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.02.04-15.10.19:569][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.02.04-15.10.19:736][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.04-15.10.19:736][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.04-15.10.19:736][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.04-15.10.19:736][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.04-15.10.19:736][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.04-15.10.19:751][  0]LogNetVersion: RootsAndRabbits 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 470833548)
+[2023.02.04-15.10.19:872][  0]LogSlate: Border
+[2023.02.04-15.10.19:872][  0]LogSlate: BreadcrumbButton
+[2023.02.04-15.10.19:872][  0]LogSlate: Default
+[2023.02.04-15.10.19:872][  0]LogSlate: Icons.Save
+[2023.02.04-15.10.19:872][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.04-15.10.19:872][  0]LogSlate: ListView
+[2023.02.04-15.10.19:872][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.04-15.10.19:872][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.04-15.10.19:872][  0]LogSlate: TableView.DarkRow
+[2023.02.04-15.10.19:872][  0]LogSlate: TableView.Row
+[2023.02.04-15.10.19:872][  0]LogSlate: TreeView
+[2023.02.04-15.10.20:021][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.20:046][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.20:046][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.20:156][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.02.04-15.10.20:156][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.02.04-15.10.20:156][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.04-15.10.20:394][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6D41F14F4FC515E56632CEB41CCC8EE1 | Instance: 1D08D1B4438DC6033BC237BCDD41E4B0 (LAPTOP-BU8CCQP5-12776).
+[2023.02.04-15.10.20:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.04-15.10.20:431][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.04-15.10.20:600][  0]LogPython: Using Python 3.9.7
+[2023.02.04-15.10.21:612][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.21:616][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.21:637][  0]LogUProjectInfo: Found projects:
+[2023.02.04-15.10.21:642][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.21:860][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.04-15.10.22:059][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.04-15.10.22:086][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.04-15.10.22:086][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.04-15.10.22:257][  0]LogCollectionManager: Loaded 0 collections in 0.001840 seconds
+[2023.02.04-15.10.22:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Collections/' took 0.00s
+[2023.02.04-15.10.22:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Developers/chevr/Collections/' took 0.00s
+[2023.02.04-15.10.22:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Collections/' took 0.00s
+[2023.02.04-15.10.22:551][  0]LogEngine: Initializing Engine...
+[2023.02.04-15.10.22:563][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.04-15.10.22:564][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.04-15.10.22:817][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.04-15.10.22:817][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.10.22:831][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.10.22:865][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.04-15.10.22:865][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.04-15.10.22:894][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.04-15.10.22:895][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.04-15.10.22:895][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.04-15.10.22:896][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.04-15.10.22:896][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.10.22:896][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.10.22:896][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.10.22:896][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.10.22:896][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.10.22:896][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.10.22:904][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.10.22:977][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2023.02.04-15.10.22:977][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.10.22:980][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.10.22:980][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.10.22:981][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.04-15.10.22:981][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.04-15.10.22:982][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.04-15.10.22:982][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.04-15.10.22:982][  0]LogInit: FAudioDevice initialized.
+[2023.02.04-15.10.22:982][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.04-15.10.22:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.04-15.10.22:982][  0]LogInit: Texture streaming: Enabled
+[2023.02.04-15.10.23:022][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.02.04-15.10.23:033][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.04-15.10.23:058][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.04-15.10.23:067][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.04-15.10.23:067][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.04-15.10.24:126][  0]LogLiveCoding: Display: First instance in process group "UE_RootsAndRabbits_0x28932846", spawning console
+[2023.02.04-15.10.24:126][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.04-15.10.24:126][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.04-15.10.24:155][  0]LogInit: Transaction tracking system initialized
+[2023.02.04-15.10.24:234][  0]BlueprintLog: New page: Editor Load
+[2023.02.04-15.10.24:435][  0]LocalizationService: Localization service is disabled
+[2023.02.04-15.10.24:488][  0]TimingProfiler: Initialize
+[2023.02.04-15.10.24:488][  0]TimingProfiler: OnSessionChanged
+[2023.02.04-15.10.24:488][  0]LoadingProfiler: Initialize
+[2023.02.04-15.10.24:488][  0]LoadingProfiler: OnSessionChanged
+[2023.02.04-15.10.24:488][  0]NetworkingProfiler: Initialize
+[2023.02.04-15.10.24:488][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.04-15.10.24:488][  0]MemoryProfiler: Initialize
+[2023.02.04-15.10.24:488][  0]MemoryProfiler: OnSessionChanged
+[2023.02.04-15.10.25:001][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/' took 0.00s
+[2023.02.04-15.10.25:001][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.04-15.10.25:240][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.04-15.10.25:243][  0]SourceControl: Source control is disabled
+[2023.02.04-15.10.25:243][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.211
+[2023.02.04-15.10.25:243][  0]Cmd: MAP LOAD FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Map/Map_LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-15.10.25:243][  0]LightingResults: New page: Lighting Build
+[2023.02.04-15.10.25:249][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.10.25:249][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.10.25:249][  0]MapCheck: New page: Map Check
+[2023.02.04-15.10.25:249][  0]LightingResults: New page: Lighting Build
+[2023.02.04-15.10.25:254][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.10.25:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.02.04-15.10.25:450][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_LevelTest'.
+[2023.02.04-15.10.25:450][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.10.25:450][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.10.25:450][  0]LogAIModule: Creating AISystem for world Map_LevelTest
+[2023.02.04-15.10.25:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-15.10.25:467][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-15.10.25:467][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-15.10.25:467][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2023.02.04-15.10.25:467][  0]LogFileHelpers: Loading map 'Map_LevelTest' took 0.225
+[2023.02.04-15.10.25:481][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.450
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: ================================================
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.04-15.10.25:481][  0]LogShaderCompilers: Display: ================================================
+[2023.02.04-15.10.25:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.10.25:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.10.25:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.10.25:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.10.25:791][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.04-15.10.25:795][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.04-15.10.25:796][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.04-15.10.25:810][  0]LogViewport: Scene viewport resized to 2003x1161, mode Windowed.
+[2023.02.04-15.10.26:046][  0]LogStall: Startup...
+[2023.02.04-15.10.26:048][  0]LogStall: Startup complete.
+[2023.02.04-15.10.26:162][  0]LogLoad: (Engine Initialization) Total time: 12.13 seconds
+[2023.02.04-15.10.26:162][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.04-15.10.26:208][  0]LogAssetRegistry: Asset discovery search completed in 7.2244 seconds
+[2023.02.04-15.10.26:218][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.02.04-15.10.26:242][  0]LogContentStreaming: Texture pool size now 600 MB
+[2023.02.04-15.10.26:282][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.04-15.10.31:790][271]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.04-15.10.31:795][271]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.04-15.10.33:076][338]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CookingSystem/BP_Assiete.BP_Assiete_C
+[2023.02.04-15.10.33:077][338]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CookingSystem/BP_Assiete.BP_Assiete_C
+[2023.02.04-15.10.33:078][338]LogActorFactory: Actor Factory spawned Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete as actor: BP_Assiete_C /Game/Map/Map_LevelTest.Map_LevelTest:PersistentLevel.BP_Assiete_C_0
+[2023.02.04-15.10.33:079][338]LogActorFactory: Actor Factory spawned Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete as actor: BP_Assiete_C /Game/Map/Map_LevelTest.Map_LevelTest:PersistentLevel.BP_Assiete_C_0
+[2023.02.04-15.10.34:376][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CookingSystem/BP_Assiete.BP_Assiete_C
+[2023.02.04-15.10.34:376][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CookingSystem/BP_Assiete.BP_Assiete_C
+[2023.02.04-15.10.34:378][415]LogActorFactory: Actor Factory spawned Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete as actor: BP_Assiete_C /Game/Map/Map_LevelTest.Map_LevelTest:PersistentLevel.BP_Assiete_C_1
+[2023.02.04-15.10.34:379][415]LogActorFactory: Actor Factory spawned Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete as actor: BP_Assiete_C /Game/Map/Map_LevelTest.Map_LevelTest:PersistentLevel.BP_Assiete_C_1
+[2023.02.04-15.10.38:814][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.10.38:814][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.10.39:895][676]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.04-15.10.49:255][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.10.49:256][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.10.52:787][354]LogViewport: Scene viewport resized to 1463x885, mode Windowed.
+[2023.02.04-15.12.20:007][ 90]LogDerivedDataCache: C:/Users/chevr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.310 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.04-15.12.46:424][466]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-15.12.46:439][466]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-15.12.46:454][467]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-15.12.48:087][565]LogContentBrowser: Attempting asset rename: NewFolder -> Widget
+[2023.02.04-15.12.48:087][565]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-15.12.53:190][817]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-15.12.53:191][817]LogEditorClassViewer: Warning: Class /Game/CookingSystem/BP_Assiete.PLACEHOLDER-CLASS__BP_ingredient_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-15.12.54:517][817]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.02.04-15.12.54:524][817]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.04-15.12.55:511][874]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.04-15.12.55:548][876]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.02.04-15.13.00:849][193]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Test
+[2023.02.04-15.13.00:857][193]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.04-15.13.01:502][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.13.01:508][227]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006059 seconds
+[2023.02.04-15.13.01:511][227]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.13.01:511][227]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test7DA8FF16466619B7721D77B8822CC986.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.13.01:525][227]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.13.01:525][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.13.02:087][259]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.13.02:088][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.13.02:096][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.13.02:104][259]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.02.04-15.13.02:387][259]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.13.02:387][259]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.13.02:520][259]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.02.04-15.13.45:582][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.13.45:585][795]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.13.45:586][795]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test6D84EFE4458A1D34F371B49B3F9881C5.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.13.45:600][795]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.13.45:600][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.13.46:247][834]BlueprintLog: New page: Compile WBP_Test
+[2023.02.04-15.13.46:329][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.04-15.13.46:528][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.13.46:531][838]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.13.46:531][838]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test77C7F8EE402AD1D3B23AC5BDF67B0256.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.13.46:544][838]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.13.46:544][838]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.14.16:521][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.14.16:524][516]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.14.16:525][516]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test9DBEDCE3408855C038B165BA769EF7FF.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.14.16:538][516]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.14.16:538][516]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.14.31:115][366]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.04-15.14.47:015][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.14.47:019][284]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.14.47:020][284]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test952C88AD43F64A55B496C4B2CF5A6C12.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.14.47:037][284]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.14.47:037][284]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.14.47:932][336]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.14.47:933][336]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.15.19:160][149]BlueprintLog: New page: Compile WBP_Test
+[2023.02.04-15.15.19:227][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.04-15.15.19:514][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.15.19:518][159]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.15.19:519][159]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_TestEE998EC142FB4FEA5A60A88358AB1D2C.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.15.19:534][159]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.15.19:534][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.15.20:162][196]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.15.20:162][196]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.15.43:402][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.15.43:408][540]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.15.43:408][540]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test4FBE5A2C4F42977BFF3603B142109524.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.15.43:423][540]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.15.43:423][540]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.16.32:873][390]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-15.16.39:637][774]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.16.39:638][774]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient5DE000A94515A6213EA1338933880452.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.16.39:657][774]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.16.39:657][774]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.16.39:968][792]BlueprintLog: New page: Compile BP_ingredient
+[2023.02.04-15.16.40:054][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.04-15.16.40:282][795]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.16.40:283][795]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient559D548641095D79CB2E7AAD02A10E2B.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.16.40:298][795]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.16.40:298][795]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.16.50:021][330]BlueprintLog: New page: Compile BP_ingredient
+[2023.02.04-15.16.50:100][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.02.04-15.16.50:371][335]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.16.50:372][335]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredientC95062A540E121CCC38867825495DBFC.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.16.50:387][335]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.16.50:387][335]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.17.39:053][100]BlueprintLog: New page: Compile BP_ingredient
+[2023.02.04-15.17.39:119][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.04-15.17.39:625][118]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.17.39:626][118]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient02FB8F2840CD953C80A495B8ED424E6A.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.17.39:640][118]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.17.39:640][118]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.17.50:305][726]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.17.50:305][726]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient3E2DC77344F870B1DDBDF99F0EDC5D5B.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.17.50:323][726]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.17.50:323][726]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.18.16:280][211]BlueprintLog: New page: Compile BP_ingredient
+[2023.02.04-15.18.16:343][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.04-15.18.16:597][215]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.18.16:598][215]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient774BC0C941150F2CDD9890B9D1D1680D.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.18.16:613][215]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.18.16:613][215]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.18.17:765][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.18.17:771][280]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.18.17:771][280]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test2FEAD3FE49BE0CE8CD547083C2FB41B5.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.18.17:785][280]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.18.17:785][280]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.18.20:351][432]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-15.18.20:359][432]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.04-15.18.20:363][432]LogPlayLevel: [PlayLevel] Compiling WBP_Test before play...
+[2023.02.04-15.18.20:448][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.02.04-15.18.20:453][432]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (1 blueprints)
+[2023.02.04-15.18.20:453][432]PIE: New page: PIE session: Map_LevelTest (4 Feb 2023, 17:18:20)
+[2023.02.04-15.18.20:457][432]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.04-15.18.20:457][432]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.04-15.18.20:457][432]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_LevelTest
+[2023.02.04-15.18.20:463][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006078s)
+[2023.02.04-15.18.20:463][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_LevelTest.Map_LevelTest to /Game/Map/UEDPIE_0_Map_LevelTest.Map_LevelTest (0.006174s)
+[2023.02.04-15.18.20:463][432]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.18.20:463][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.18.20:463][432]LogAIModule: Creating AISystem for world Map_LevelTest
+[2023.02.04-15.18.20:464][432]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2023.02.04-15.18.20:506][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.04-15.18.20:507][432]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.18.20:507][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.18.20:507][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.18.20:508][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.18.20:508][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.18.20:508][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.18.20:510][432]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.18.20:572][432]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2023.02.04-15.18.20:573][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.18.20:573][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.18.20:573][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.18.20:574][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.04-15.18.20:574][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.04-15.18.20:575][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.04-15.18.20:575][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.04-15.18.20:575][432]LogInit: FAudioDevice initialized.
+[2023.02.04-15.18.20:576][432]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_LevelTest'.
+[2023.02.04-15.18.20:591][432]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-15.18.20:592][432]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_LevelTest.Map_LevelTest up for play (max tick rate 60) at 2023.02.04-16.18.20
+[2023.02.04-15.18.20:593][432]LogWorld: Bringing up level for play took: 0.002044
+[2023.02.04-15.18.20:594][432]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.02.04-15.18.20:611][432]LogBlueprintUserMessages: [BP_SoapWater_C_1] 8.0
+[2023.02.04-15.18.20:611][432]LogBlueprintUserMessages: [BP_SoapWater_C_1] 2048.0
+[2023.02.04-15.18.20:612][432]PIE: Server logged in
+[2023.02.04-15.18.20:613][432]PIE: Play in editor total start time 0.255 seconds.
+[2023.02.04-15.18.25:740][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.18.25:740][719]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_LevelTest
+[2023.02.04-15.18.25:740][719]LogWorld: UWorld::CleanupWorld for Map_LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.18.25:740][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.18.25:754][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-15.18.25:760][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.18.25:796][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.18.25:797][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.04-15.18.25:798][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.04-15.18.25:802][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.18.25:843][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.02.04-15.18.25:895][720]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.04-15.18.28:900][873]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.18.28:900][873]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.18.34:934][216]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-15.18.35:685][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Test" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset" SILENT=true
+[2023.02.04-15.18.35:690][255]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Test
+[2023.02.04-15.18.35:691][255]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/WBP_Test45B15B50408874463D4D458DF5D7C61B.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Widget/WBP_Test.uasset'
+[2023.02.04-15.18.35:704][255]AssetCheck: New page: Asset Save: WBP_Test
+[2023.02.04-15.18.35:704][255]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WBP_Test.WBP_Test
+[2023.02.04-15.18.41:126][541]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.18.41:127][541]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient6E31809E482EE942DFF376A5FA07854E.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.18.41:144][541]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.18.41:144][541]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.18.41:539][563]BlueprintLog: New page: Compile BP_ingredient
+[2023.02.04-15.18.41:640][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.04-15.18.41:787][563]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.18.41:788][563]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient9B7F2C59455D0CF682F69EAC6A624F7E.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.18.41:803][563]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.18.41:803][563]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.18.44:816][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-15.18.44:825][734]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.04-15.18.44:829][734]LogPlayLevel: [PlayLevel] Compiling WBP_Test before play...
+[2023.02.04-15.18.44:940][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.04-15.18.44:943][734]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2023.02.04-15.18.44:943][734]PIE: New page: PIE session: Map_LevelTest (4 Feb 2023, 17:18:44)
+[2023.02.04-15.18.44:944][734]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_LevelTest
+[2023.02.04-15.18.44:949][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005240s)
+[2023.02.04-15.18.44:949][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_LevelTest.Map_LevelTest to /Game/Map/UEDPIE_0_Map_LevelTest.Map_LevelTest (0.005299s)
+[2023.02.04-15.18.44:949][734]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.18.44:949][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.18.44:949][734]LogAIModule: Creating AISystem for world Map_LevelTest
+[2023.02.04-15.18.44:950][734]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2023.02.04-15.18.44:986][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.02.04-15.18.44:987][734]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.18.44:987][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.18.44:987][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.18.44:987][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.18.44:987][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.18.44:987][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.18.44:989][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.18.45:044][734]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2023.02.04-15.18.45:045][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.18.45:045][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.18.45:045][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.18.45:046][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.04-15.18.45:046][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.04-15.18.45:047][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.04-15.18.45:047][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.04-15.18.45:047][734]LogInit: FAudioDevice initialized.
+[2023.02.04-15.18.45:047][734]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_LevelTest'.
+[2023.02.04-15.18.45:057][734]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-15.18.45:059][734]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_LevelTest.Map_LevelTest up for play (max tick rate 60) at 2023.02.04-16.18.45
+[2023.02.04-15.18.45:059][734]LogWorld: Bringing up level for play took: 0.001836
+[2023.02.04-15.18.45:061][734]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.02.04-15.18.45:062][734]LogBlueprintUserMessages: [BP_SoapWater_C_1] 8.0
+[2023.02.04-15.18.45:062][734]LogBlueprintUserMessages: [BP_SoapWater_C_1] 2048.0
+[2023.02.04-15.18.45:063][734]PIE: Server logged in
+[2023.02.04-15.18.45:063][734]PIE: Play in editor total start time 0.239 seconds.
+[2023.02.04-15.19.03:105][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.19.03:105][812]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_LevelTest
+[2023.02.04-15.19.03:105][812]LogWorld: UWorld::CleanupWorld for Map_LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.19.03:105][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.19.03:119][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-15.19.03:124][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.19.03:159][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.19.03:160][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.04-15.19.03:161][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.04-15.19.03:168][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.04-15.19.03:222][813]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.02.04-15.19.06:378][990]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_ingredient
+[2023.02.04-15.19.06:379][990]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_ingredient25988AEF41E26D1F500A73849ADBB0B7.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_ingredient.uasset'
+[2023.02.04-15.19.06:394][990]AssetCheck: New page: Asset Save: BP_ingredient
+[2023.02.04-15.19.06:394][990]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_ingredient.BP_ingredient
+[2023.02.04-15.19.22:754][917]BlueprintLog: New page: Compile BP_Assiete
+[2023.02.04-15.19.22:817][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.02.04-15.19.23:133][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.19.23:140][926]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.19.23:141][926]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_AssieteF087EEA145020D9B13EE1381F6B3F4DB.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.19.23:158][926]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.19.23:158][926]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.19.25:774][ 78]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-15.19.25:782][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-15.19.25:782][ 78]PIE: New page: PIE session: Map_LevelTest (4 Feb 2023, 17:19:25)
+[2023.02.04-15.19.25:782][ 78]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_LevelTest
+[2023.02.04-15.19.25:787][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005256s)
+[2023.02.04-15.19.25:787][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_LevelTest.Map_LevelTest to /Game/Map/UEDPIE_0_Map_LevelTest.Map_LevelTest (0.005314s)
+[2023.02.04-15.19.25:787][ 78]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.19.25:788][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.19.25:788][ 78]LogAIModule: Creating AISystem for world Map_LevelTest
+[2023.02.04-15.19.25:788][ 78]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2023.02.04-15.19.25:825][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.04-15.19.25:828][ 78]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.19.25:828][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.19.25:828][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.19.25:828][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.19.25:828][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.19.25:828][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.19.25:830][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.19.25:886][ 78]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2023.02.04-15.19.25:886][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.19.25:886][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.19.25:886][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.19.25:887][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.04-15.19.25:887][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.02.04-15.19.25:888][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.04-15.19.25:888][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.04-15.19.25:888][ 78]LogInit: FAudioDevice initialized.
+[2023.02.04-15.19.25:888][ 78]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_LevelTest'.
+[2023.02.04-15.19.25:898][ 78]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-15.19.25:900][ 78]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_LevelTest.Map_LevelTest up for play (max tick rate 60) at 2023.02.04-16.19.25
+[2023.02.04-15.19.25:900][ 78]LogWorld: Bringing up level for play took: 0.001860
+[2023.02.04-15.19.25:902][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.02.04-15.19.25:903][ 78]LogBlueprintUserMessages: [BP_SoapWater_C_1] 8.0
+[2023.02.04-15.19.25:903][ 78]LogBlueprintUserMessages: [BP_SoapWater_C_1] 2048.0
+[2023.02.04-15.19.25:903][ 78]PIE: Server logged in
+[2023.02.04-15.19.25:904][ 78]PIE: Play in editor total start time 0.122 seconds.
+[2023.02.04-15.19.45:709][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.19.45:709][261]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_LevelTest
+[2023.02.04-15.19.45:709][261]LogWorld: UWorld::CleanupWorld for Map_LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.19.45:709][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.19.45:727][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-15.19.45:733][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.19.45:772][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.19.45:772][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.04-15.19.45:774][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.04-15.19.45:777][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.19.45:780][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.04-15.19.45:827][262]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.04-15.19.46:510][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.04-15.19.46:532][295]LogSavePackage: Moving output files for package: /Game/Map/Map_LevelTest
+[2023.02.04-15.19.46:533][295]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Map_LevelTest5036754F4FF06DF7C19482B8E32EED59.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/Map/Map_LevelTest.umap'
+[2023.02.04-15.19.46:579][295]AssetCheck: New page: Asset Save: Map_LevelTest
+[2023.02.04-15.19.46:579][295]LogContentValidation: Display: Validating World /Game/Map/Map_LevelTest.Map_LevelTest
+[2023.02.04-15.20.01:106][ 73]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.02.04-15.20.34:080][947]BlueprintLog: New page: Compile BP_Assiete
+[2023.02.04-15.20.34:085][947]LogClass: Warning: Type mismatch in CurrentRecipe of BP_Assiete_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2023.02.04-15.20.34:144][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.04-15.20.34:394][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.20.34:402][952]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.20.34:403][952]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_Assiete26EF81A7497CA6B0335490837A36535B.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.20.34:419][952]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.20.34:419][952]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.29.46:730][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.04-15.29.46:754][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/Map_LevelTest_Auto1
+[2023.02.04-15.29.46:755][ 97]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Map_LevelTest_Auto11DCDDEF94BB93278E684C5B2C613CB13.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Autosaves/Game/Map/Map_LevelTest_Auto1.umap'
+[2023.02.04-15.29.46:758][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_LevelTest' took 0.068
+[2023.02.04-15.29.46:758][ 97]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2023.02.04-15.29.46:759][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CookingSystem/BP_Assiete] ([2] browsable assets)...
+[2023.02.04-15.29.46:789][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete]
+[2023.02.04-15.29.46:789][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/CookingSystem/BP_Assiete]
+[2023.02.04-15.29.46:797][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CookingSystem/BP_Assiete_Auto1
+[2023.02.04-15.29.46:797][ 97]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_Assiete_Auto199589C6C450D2441A8E635ABDA97E7B5.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Autosaves/Game/CookingSystem/BP_Assiete_Auto1.uasset'
+[2023.02.04-15.29.46:798][ 97]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.02.04-15.33.24:148][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.33.24:157][ 25]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.33.24:158][ 25]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_Assiete9EBDFCB64F1C944DED7FF78404B1D496.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.33.24:177][ 25]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.33.24:177][ 25]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.33.25:884][127]BlueprintLog: New page: Compile BP_Assiete
+[2023.02.04-15.33.25:949][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.04-15.33.26:164][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.33.26:173][130]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.33.26:174][130]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_Assiete2EB2EA3A48FDD1A6EFD87CB3A6D407B9.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.33.26:188][130]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.33.26:189][130]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.38.15:961][524]BlueprintLog: New page: Compile BP_Assiete
+[2023.02.04-15.38.16:026][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.04-15.38.17:009][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.38.17:018][573]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.38.17:019][573]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_AssieteEB19278F4D7D8E64ACCF7E9550991D53.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.38.17:034][573]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.38.17:034][573]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.38.30:173][241]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.02.04-15.38.30:185][241]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.02.04-15.38.30:205][242]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.02.04-15.38.36:061][594]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> DATASTRUCT_Recipe
+[2023.02.04-15.38.36:083][594]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.02.04-15.38.36:570][619]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-15.38.36:570][619]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe3B06177B4B3669C22E9502B9D7D6DDAC.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-15.38.36:587][619]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-15.38.36:587][619]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-15.38.37:512][670]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-15.39.47:412][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.04-15.39.47:437][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/Map_LevelTest_Auto2
+[2023.02.04-15.39.47:438][494]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Map_LevelTest_Auto2AAE3ED2D49A80E425072EF8CD9FD8C5C.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Autosaves/Game/Map/Map_LevelTest_Auto2.umap'
+[2023.02.04-15.39.47:441][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_LevelTest' took 0.072
+[2023.02.04-15.39.47:441][494]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2023.02.04-15.39.47:442][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CookingSystem/DATASTRUCT_Recipe] ([1] browsable assets)...
+[2023.02.04-15.39.47:442][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/CookingSystem/DATASTRUCT_Recipe]
+[2023.02.04-15.39.47:443][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CookingSystem/DATASTRUCT_Recipe_Auto2
+[2023.02.04-15.39.47:443][494]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe_Auto23DEF73FF4E2CAB7EC82DCEB2CB179576.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Autosaves/Game/CookingSystem/DATASTRUCT_Recipe_Auto2.uasset'
+[2023.02.04-15.39.47:444][494]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.02.04-15.40.16:974][172]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-15.40.16:975][172]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe9A82C6C8483F771375B28E994CEFD996.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-15.40.16:990][172]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-15.40.16:990][172]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-15.40.40:513][571]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-15.40.40:514][571]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe838478764478D8EB4E7E5A885985B206.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-15.40.40:528][571]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-15.40.40:529][571]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-15.42.11:370][ 60]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-15.42.11:371][ 60]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe9BDD938248C78F942296EFBF9935F8FD.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-15.42.11:392][ 60]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-15.42.11:392][ 60]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-15.42.24:623][831]BlueprintLog: New page: Compile BP_Assiete
+[2023.02.04-15.42.24:685][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.02.04-15.42.25:220][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.42.25:230][852]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.42.25:230][852]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_AssieteF1FB3BB9472B33ECBCB4AF95A6815014.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.42.25:245][852]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.42.25:245][852]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.43.13:170][657]LogSlate: Window 'Pick Row Structure' being destroyed
+[2023.02.04-15.43.13:178][657]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2023.02.04-15.43.13:189][657]LogContentBrowser: Creating deferred item: NewDataTable
+[2023.02.04-15.43.13:216][658]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2023.02.04-15.43.14:302][720]LogContentBrowser: Attempting asset rename: NewDataTable -> NewDataTable
+[2023.02.04-15.43.14:303][720]LogContentBrowser: End creating deferred item NewDataTable
+[2023.02.04-15.43.15:324][774]LogSavePackage: Moving output files for package: /Game/CookingSystem/NewDataTable
+[2023.02.04-15.43.15:324][774]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/NewDataTableC193E96C4C2330D87175E0B005D89981.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/NewDataTable.uasset'
+[2023.02.04-15.43.15:338][774]AssetCheck: New page: Asset Save: NewDataTable
+[2023.02.04-15.43.15:338][774]LogContentValidation: Display: Validating DataTable /Game/CookingSystem/NewDataTable.NewDataTable
+[2023.02.04-15.43.15:961][804]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.04-15.43.15:961][804]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.04-15.43.20:627][ 78]LogContentBrowser: Attempting asset rename: NewDataTable -> AllRecipesDataTable
+[2023.02.04-15.43.20:709][ 78]LogSavePackage: Moving output files for package: /Game/CookingSystem/AllRecipesDataTable
+[2023.02.04-15.43.20:709][ 78]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/AllRecipesDataTable213908A14006FC6CBF38CF9F81370E2A.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/AllRecipesDataTable.uasset'
+[2023.02.04-15.43.20:773][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.04-15.43.20:813][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.04-15.43.20:850][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.04-15.43.20:858][ 78]AssetCheck: New page: Asset Save: AllRecipesDataTable
+[2023.02.04-15.43.20:858][ 78]LogContentValidation: Display: Validating DataTable /Game/CookingSystem/AllRecipesDataTable.AllRecipesDataTable
+[2023.02.04-15.43.21:335][102]LogSavePackage: Moving output files for package: /Game/CookingSystem/AllRecipesDataTable
+[2023.02.04-15.43.21:336][102]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/AllRecipesDataTable847C63EA4A4FE5325C9B41BA73C99275.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/AllRecipesDataTable.uasset'
+[2023.02.04-15.43.21:351][102]AssetCheck: New page: Asset Save: AllRecipesDataTable
+[2023.02.04-15.43.21:352][102]LogContentValidation: Display: Validating DataTable /Game/CookingSystem/AllRecipesDataTable.AllRecipesDataTable
+[2023.02.04-15.43.22:991][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.43.23:000][187]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.43.23:001][187]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_Assiete8B58A10E445E09536C5DF48E0727B810.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.43.23:017][187]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.43.23:017][187]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.43.23:539][216]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/CookingSystem/AllRecipesDataTable.AllRecipesDataTable
+[2023.02.04-15.43.36:225][952]LogSavePackage: Moving output files for package: /Game/CookingSystem/AllRecipesDataTable
+[2023.02.04-15.43.36:226][952]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/AllRecipesDataTable9DEA46F8450DBBB6D2D83B96243C0530.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/AllRecipesDataTable.uasset'
+[2023.02.04-15.43.36:242][952]AssetCheck: New page: Asset Save: AllRecipesDataTable
+[2023.02.04-15.43.36:242][952]LogContentValidation: Display: Validating DataTable /Game/CookingSystem/AllRecipesDataTable.AllRecipesDataTable
+[2023.02.04-15.43.59:622][345]LogSavePackage: Moving output files for package: /Game/CookingSystem/AllRecipesDataTable
+[2023.02.04-15.43.59:623][345]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/AllRecipesDataTable8E986C0943FE7FAB197E6AB526E8C93E.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/AllRecipesDataTable.uasset'
+[2023.02.04-15.43.59:639][345]AssetCheck: New page: Asset Save: AllRecipesDataTable
+[2023.02.04-15.43.59:639][345]LogContentValidation: Display: Validating DataTable /Game/CookingSystem/AllRecipesDataTable.AllRecipesDataTable
+[2023.02.04-15.44.20:523][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.04-15.44.21:496][584]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-15.44.21:580][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.04-15.44.21:636][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.02.04-15.44.21:672][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.04-15.44.30:596][ 66]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-15.44.30:611][ 66]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-15.44.30:622][ 67]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-15.44.33:932][266]LogContentBrowser: Attempting asset rename: NewFolder -> SavedData
+[2023.02.04-15.44.33:932][266]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-15.44.42:078][561]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-15.44.56:664][561]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-15.45.05:217][ 48]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-15.45.05:218][ 48]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe347E289042680D0702A1078364BB4D02.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-15.45.05:231][ 48]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-15.45.05:231][ 48]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-15.45.08:129][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.45.08:138][215]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.45.08:139][215]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_AssieteD2134097423C0BFB49A11294E184BCD4.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.45.08:152][215]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.45.08:152][215]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.45.15:864][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CookingSystem/BP_Assiete" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset" SILENT=true
+[2023.02.04-15.45.15:873][670]LogSavePackage: Moving output files for package: /Game/CookingSystem/BP_Assiete
+[2023.02.04-15.45.15:874][670]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/BP_Assiete68482ABF4C5BB2ECC25635982A5B6EB7.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/BP_Assiete.uasset'
+[2023.02.04-15.45.15:888][670]AssetCheck: New page: Asset Save: BP_Assiete
+[2023.02.04-15.45.15:888][670]LogContentValidation: Display: Validating Blueprint /Game/CookingSystem/BP_Assiete.BP_Assiete
+[2023.02.04-15.45.48:833][619]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-15.45.48:841][619]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-15.45.48:852][619]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-15.45.48:892][621]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-15.45.49:867][679]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.02.04-15.45.49:871][679]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-15.45.50:907][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/NewBlueprint" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/NewBlueprint.uasset" SILENT=true
+[2023.02.04-15.45.50:908][733]LogSavePackage: Moving output files for package: /Game/SavedData/NewBlueprint
+[2023.02.04-15.45.50:908][733]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/NewBlueprint6DC3DB5E448009C2216287AEB6669A59.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/NewBlueprint.uasset'
+[2023.02.04-15.45.50:920][733]AssetCheck: New page: Asset Save: NewBlueprint
+[2023.02.04-15.45.50:920][733]LogContentValidation: Display: Validating Blueprint /Game/SavedData/NewBlueprint.NewBlueprint
+[2023.02.04-15.45.51:909][781]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.04-15.45.51:909][781]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.04-15.45.56:755][ 68]LogContentBrowser: Attempting asset rename: NewBlueprint -> GI_Data
+[2023.02.04-15.45.56:771][ 68]LogMetaData: Removing '/Game/SavedData/GI_Data.SKEL_GI_Data_C' ref from Metadata '/Game/SavedData/NewBlueprint.PackageMetaData'
+[2023.02.04-15.45.56:771][ 68]LogMetaData: Removing '/Game/SavedData/GI_Data.GI_Data_C' ref from Metadata '/Game/SavedData/NewBlueprint.PackageMetaData'
+[2023.02.04-15.45.56:834][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.45.56:835][ 68]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.45.56:835][ 68]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data6AD9C72E4626194C4736CF828C2CB525.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.45.56:902][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.04-15.45.56:952][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.04-15.45.56:988][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.04-15.45.56:996][ 68]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.45.56:997][ 68]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.45.57:089][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.45.57:091][ 70]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.45.57:092][ 70]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataF66836D64E391051DB2E14BC0642B801.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.45.57:105][ 70]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.45.57:106][ 70]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.45.58:057][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.45.58:058][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.46.14:119][ 52]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-15.46.14:164][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.02.04-15.46.14:604][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.46.14:606][ 73]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.46.14:607][ 73]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataF0D4DE574053F60E8255A49286F1D068.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.46.14:621][ 73]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.46.14:621][ 73]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.46.20:764][434]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-15.46.20:765][434]LogClass: Warning: Type mismatch in AllRecipesArray of GI_Data_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2023.02.04-15.46.20:809][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.02.04-15.49.34:564][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.49.34:566][476]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.49.34:567][476]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataBE363BF94752AB0306C533843D0DFE3C.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.49.34:582][476]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.49.34:582][476]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.49.35:541][534]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-15.49.35:588][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.04-15.50.32:250][451]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-15.50.32:298][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.02.04-15.50.32:635][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.50.32:638][465]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.50.32:639][465]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataFD8E48E442910AFAE46CC1A87ED50569.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.50.32:654][465]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.50.32:654][465]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.52.08:445][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.52.08:448][409]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.52.08:449][409]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data466C310F49ADB79F1BC124899DC0C945.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.52.08:463][409]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.52.08:463][409]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.52.09:467][468]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-15.52.09:515][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.02.04-15.52.10:368][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-15.52.10:371][513]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-15.52.10:372][513]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataD62E920646A30526136759B1EE41D9F4.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-15.52.10:384][513]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-15.52.10:384][513]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-15.52.48:010][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.02.04-15.52.48:033][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/Map_LevelTest_Auto3
+[2023.02.04-15.52.48:033][399]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Map_LevelTest_Auto3B5C761984802F9F8C74B6FBF98ED12A0.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/Autosaves/Game/Map/Map_LevelTest_Auto3.umap'
+[2023.02.04-15.52.48:036][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_LevelTest' took 0.067
+[2023.02.04-15.52.48:036][399]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.02.04-16.05.05:023][327]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Material/MAT_Decal_SlipperyFloor.MAT_Decal_SlipperyFloor
+[2023.02.04-16.05.05:028][327]LogMaterial: Display: Missing cached shadermap for Preview:MAT_Decal_SlipperyFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 47EA5DA6B1AF9645C446877AE38CF00D498FC8F6), compiling. 
+[2023.02.04-16.05.05:111][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-16.05.05:234][327]LogMaterial: Display: Missing cached shadermap for Preview:MAT_Decal_SlipperyFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 683E86A83F79A7039E382F7066817499DC6C34C6), compiling. 
+[2023.02.04-16.05.05:241][327]LogMaterial: Display: Missing cached shadermap for Preview:MAT_Decal_SlipperyFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 50198BB33A0CD9946B9B6FFB4BCF2B53C68F603D), compiling. 
+[2023.02.04-16.05.05:243][327]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 24357E160F6C8F38E7F44A45C20B855809207859), compiling. 
+[2023.02.04-16.05.05:245][327]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F3E2E913E9258D98F3BF3925E3C1FBCA37E71A51), compiling. 
+[2023.02.04-16.05.05:246][327]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionNoise_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E4EA3399C0080A0A784C0D8F7D820FA9B2754A25), compiling. 
+[2023.02.04-16.05.05:247][327]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D243598F867CCD3318886BA39A808B32F5D6062), compiling. 
+[2023.02.04-16.05.05:277][327]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-16.05.05:277][327]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.04-16.05.05:277][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.04-16.05.05:277][327]MaterialEditorStats: Shader Count: 0
+[2023.02.04-16.05.05:286][327]LogViewport: Scene viewport resized to 511x577, mode Windowed.
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: ================================================
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Total job queries 27, among them cache hits 0 (0.00%)
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Shaders Compiled: 25
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 0.64 s
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 0.70
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.70 s
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Average processing rate: 1.43 jobs/sec
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Effective parallelization: 0.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display:                                                FMeshDecalsPS - 100.00% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2023.02.04-16.05.06:056][370]LogShaderCompilers: Display: ================================================
+[2023.02.04-16.05.06:071][371]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-16.05.06:071][371]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.04-16.05.06:071][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.04-16.05.06:071][371]MaterialEditorStats: Shader Count: 1
+[2023.02.04-16.11.59:947][180]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-16.11.59:947][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-16.12.01:406][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.12.01:409][260]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.12.01:409][260]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataE2602E7846D44CB2F4C16AB1C5E38C86.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.12.01:424][260]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.12.01:424][260]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.12.20:627][ 67]LogDerivedDataCache: C:/Users/chevr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.231 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.04-16.12.46:859][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.12.46:861][339]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.12.46:862][339]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data19EBF6D04E7789131FEFA79D26889796.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.12.46:874][339]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.12.46:875][339]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.12.47:671][387]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-16.12.47:726][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.04-16.12.47:874][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.12.47:876][390]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.12.47:876][390]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataFDA2BC72431BA7DBC262108BCC66D888.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.12.47:888][390]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.12.47:888][390]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.12.57:296][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.12.57:298][948]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.12.57:299][948]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data38301CC9402AF275FE4A85B5A79BD24D.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.12.57:312][948]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.12.57:313][948]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.13.08:158][589]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-16.13.08:159][589]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_RecipeF89F87CE4212D6956CF7329D824A1F48.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-16.13.08:171][589]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-16.13.08:171][589]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-16.13.09:655][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.13.09:656][674]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.13.09:657][674]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data585D14BA455CFC6F930AE4BB8CE5D41C.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.13.09:669][674]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.13.09:669][674]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.13.32:816][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.13.32:818][830]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.13.32:819][830]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data60A21BFC4814C7C3A3C6C4B54EF787D5.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.13.32:833][830]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.13.32:833][830]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.13.33:177][851]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-16.13.33:226][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.04-16.14.01:993][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.14.01:995][199]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.14.01:996][199]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataC7803C854756B879ED1F80856B98030D.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.14.02:008][199]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.14.02:008][199]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.15.04:687][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.15.04:689][750]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.15.04:690][750]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataC2A54E844774E6856ADD4191DE47E217.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.15.04:703][750]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.15.04:703][750]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.15.05:415][791]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-16.15.05:462][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.04-16.15.05:610][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.15.05:612][794]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.15.05:613][794]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data95D3048F43FB756355CE9597ABD05C79.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.15.05:625][794]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.15.05:625][794]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.15.38:904][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.15.38:907][412]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.15.38:908][412]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_Data91F99C5040C8630279E63699E9A5A877.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.15.38:925][412]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.15.38:925][412]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.15.43:445][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.15.43:447][669]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.15.43:447][669]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataD6B4E6E846F30464AE76E4A119507B18.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.15.43:460][669]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.15.43:460][669]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.15.46:217][831]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-16.15.46:218][831]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_RecipeC306674A43CD2B1D476EE9996464E4F6.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-16.15.46:230][831]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-16.15.46:230][831]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-16.16.00:926][694]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-16.16.00:984][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.02.04-16.16.01:674][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.16.01:677][727]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.16.01:678][727]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataFBC01AA54671E13070D05BBBB16A3E75.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.16.01:699][727]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.16.01:699][727]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.16.04:375][881]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-16.16.04:375][881]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_RecipeF362B4A44A32896FA9615B8B3041EDF9.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-16.16.04:387][881]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-16.16.04:388][881]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-16.16.12:364][340]LogSavePackage: Moving output files for package: /Game/CookingSystem/DATASTRUCT_Recipe
+[2023.02.04-16.16.12:366][340]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/DATASTRUCT_Recipe3F36C7EE4CB25096FAFBF6AC19FBE46B.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/CookingSystem/DATASTRUCT_Recipe.uasset'
+[2023.02.04-16.16.12:382][340]AssetCheck: New page: Asset Save: DATASTRUCT_Recipe
+[2023.02.04-16.16.12:382][340]LogContentValidation: Display: Validating UserDefinedStruct /Game/CookingSystem/DATASTRUCT_Recipe.DATASTRUCT_Recipe
+[2023.02.04-16.16.13:756][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/GI_Data" FILE="../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset" SILENT=true
+[2023.02.04-16.16.13:758][416]LogSavePackage: Moving output files for package: /Game/SavedData/GI_Data
+[2023.02.04-16.16.13:759][416]LogSavePackage: Moving '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Saved/GI_DataD5173ADB47AF1591396ADF8E6E666DD4.tmp' to '../../../../../../Users/chevr/Desktop/RabbitRoots/RootsAndRabbits/RootsAndRabbits/Content/SavedData/GI_Data.uasset'
+[2023.02.04-16.16.13:771][416]AssetCheck: New page: Asset Save: GI_Data
+[2023.02.04-16.16.13:771][416]LogContentValidation: Display: Validating Blueprint /Game/SavedData/GI_Data.GI_Data
+[2023.02.04-16.16.14:604][466]BlueprintLog: New page: Compile GI_Data
+[2023.02.04-16.16.14:652][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.04-16.16.15:943][466]LogWindows: Error: === Critical error: ===
+[2023.02.04-16.16.15:943][466]LogWindows: Error: 
+[2023.02.04-16.16.15:943][466]LogWindows: Error: Fatal error!
+[2023.02.04-16.16.15:943][466]LogWindows: Error: 
+[2023.02.04-16.16.15:943][466]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000000150000000d
+[2023.02.04-16.16.15:943][466]LogWindows: Error: 
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffee3ae146c VCRUNTIME140.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7335f076 UnrealEditor-Core.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77f9f8d6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77f9fa2a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77dceab3 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77f9f9a4 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77f9d0c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77f9d32a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe77f9fa2a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe670b4aec UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe66f55d42 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe66f5dbca UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe66f3ddec UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe66f119f4 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe76fe7ef2 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7688892c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7683caee UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:943][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe7683cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: [Callstack] 0x00007ffe76878e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.02.04-16.16.15:944][466]LogWindows: Error: 
+[2023.02.04-16.16.15:954][466]LogExit: Executing StaticShutdownAfterError
+[2023.02.04-16.16.15:957][466]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.02.04-16.16.15:957][466]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.02.04-16.16.15:957][466]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.02.04-16.16.15:963][466]Log file closed, 02/04/23 17:16:15
